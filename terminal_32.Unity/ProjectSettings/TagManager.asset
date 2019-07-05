@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Trigger
+  - Ground
+  - Battery
+  - Fill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Props
+  - Tiles
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 933474743
+    locked: 0
+  - name: Ground Tiles
+    uniqueID: 2897666759
+    locked: 0
+  - name: Tiles
+    uniqueID: 2924524235
+    locked: 0
+  - name: Props
+    uniqueID: 1382318625
+    locked: 0
+  - name: Player
+    uniqueID: 2147217965
+    locked: 0
